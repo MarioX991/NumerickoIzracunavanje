@@ -2,7 +2,7 @@
   <h1 align="center">  </h1>
 
   <p align="center">
-    Studentski projekat sa kursa Numericko izracinavanje Autonomous driving car
+    Studentski projekat sa kursa Numericko izracinavanje: Autonomous driving car
     <br />
    
  <!-- O Projektu -->

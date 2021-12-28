@@ -45,4 +45,8 @@ Na samom kraju implementiramo gore navedene elemente na  realnom [snimku voznje 
 * Papir: <a href="https://www.slideshare.net/BillKromydas/advanced-lane-finding" > "Advanced Lane Finding",  Bill Kromydas </a>
 * Papir: <a href="https://www.fer.unizg.hr/_download/repository/Kosanovic_Marko.pdf" > "Metde kalibracije kamera",  Kosanovic Marko </a>
 * Video : <a href="https://www.youtube.com/watch?v=lOEBsQodtEQ" > "Edge Detection Using Gradients",  Shree K. Nayar, Columbia University </a>
+  
+<!-- AUTHOR-->
+## Autor
+Marinko Kovačević
 

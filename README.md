@@ -20,7 +20,7 @@ U samom papiru autor nas upoznaje sa osnovama vaznim za koncepte:
 - Izolacijom piksela potrebnim za detekciju leve i desne trake linija
 - Računanje zakrivljenosti linije
 
-Na samom kraju implementiramo gore navedene elemente na  realnom [snimku voznje na autoputa]("https://raw.githubusercontent.com/udacity/CarND-Vehicle-Detection/master/project_video.mp4"), dok je za kalibraciju kamere korišcen [obrazac]("https://docs.opencv.org/2.4/_downloads/pattern.png").
+Na samom kraju implementiramo gore navedene elemente na  realnom [snimku voznje na autoputa](https://raw.githubusercontent.com/udacity/CarND-Vehicle-Detection/master/project_video.mp4), dok je za kalibraciju kamere korišcen [obrazac](https://docs.opencv.org/2.4/_downloads/pattern.png).
 
 <!-- Potrebne biblioteke  -->
 ## Potrebne biblioteke
@@ -28,7 +28,7 @@ Na samom kraju implementiramo gore navedene elemente na  realnom [snimku voznje 
 * [Python 3.7](https://www.python.org/).
 * [Anaconda](https://www.anaconda.com/), [The Jupyter Notebook](https://jupyter.org/), [Google colab](https://colab.research.google.com/notebooks/intro.ipynb).
 * [OpenCv](https://opencv.org/).
-* Ostali paketi koji su korisceni [Matplotlib](https://matplotlib.org/), [NumPy](https://numpy.org/),[moviepy]("https://pypi.org/project/moviepy/") .
+* Ostali paketi koji su korisceni [Matplotlib](https://matplotlib.org/), [NumPy](https://numpy.org/),[moviepy](https://pypi.org/project/moviepy/) .
 
 <!-- NOTES -->
 ## Notes

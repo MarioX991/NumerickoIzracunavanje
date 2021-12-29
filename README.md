@@ -17,7 +17,7 @@ U samom papiru autor nas upoznaje sa osnovama vaznim za koncepte:
 - Paletama boja RGB, HSV,  HVL
 - Sobel operatorima, magnitudi gradijenta i orjetacija gradijenta (Gradient orientation)
 - Perspective Transform (Bird's-eye view)
-- Izolacijom piksela potrebnim za detekciju leve i desne trake linija
+- Izolacija piksela potrebnih za detekciju leve i desne trake
 - Računanje zakrivljenosti linije
 
 Na samom kraju implementiramo gore navedene elemente na  realnom [snimku voznje na autoputa](https://raw.githubusercontent.com/udacity/CarND-Vehicle-Detection/master/project_video.mp4), dok je za kalibraciju kamere korišcen [obrazac](https://docs.opencv.org/2.4/_downloads/pattern.png).
